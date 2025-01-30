@@ -1,0 +1,230 @@
+# Source: https://github.com/sinaatalay/rendercv/tree/main?tab=readme-ov-file
+cv:
+  name: Peyman Jabbarzade
+  location: College Park, Maryland, US
+  email: peyman.jabarzade@gmail.com
+  phone: tel:+1 (240) 413-7609
+  website: https://pjabbarzade.github.io
+  social_networks:
+    - network: LinkedIn
+      username: peyman-j-1566a991
+#    - network: GitHub
+#      username: yourusername
+  sections:
+#    welcome_to_RenderCV!:
+#      - '[RenderCV](https://github.com/sinaatalay/rendercv) is
+#        a LaTeX-based CV/resume framework. It allows you to create
+#        a high-quality CV or resume as a PDF file from a YAML
+#        file, with **full Markdown syntax support** and **complete
+#        control over the LaTeX code**.'
+#      - The boilerplate content was inspired by [Gayle McDowell](https://github.com/dnl-blkv/mcdowell-cv).
+#    quick_guide:
+#      - bullet: Each section title is arbitrary and each section
+#          contains a list of entries.
+#      - bullet: 'There are 7 unique entry types: *BulletEntry*,
+#          *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*,
+#          *PublicationEntry*, and *OneLineEntry*.'
+#      - bullet: Select a section title, pick an entry type, and
+#          start writing your section!
+#      - bullet: '[Here](https://docs.rendercv.com/user_guide/),
+#          you can find a comprehensive user guide for RenderCV.'
+    education:
+      - institution: University of Maryland
+        area: Computer Science
+        degree: Ph.D.
+        location: College Park, US
+        start_date: 2022-01
+        end_date: present
+        highlights:
+          - '**Field:** Theoretical Computer Science'
+          - 'Designing algorithms for fundamental graph theory problems and optimizing submodular functions in the dynamic model.'
+      - institution: Sharif University of Technology
+        area: Computer Engineering
+        degree: M.Sc.
+        location: Tehran, Iran
+        start_date: 2019-09
+        end_date: 2021-12
+        highlights:
+          - '**Field:** Algorithms and Computation'
+          - 'Studied geometric graph problems in the massively parallel computation (MPC) model.'
+      - institution: Sharif University of Technology
+        area: Computer Engineering
+        degree: B.Sc.
+        location: Tehran, Iran
+        start_date: 2015-09
+        end_date: 2019-08
+    awards:
+      - company: University of Maryland
+        position: Dean's Fellowship
+        start_date: 2022-01
+        end_date: 2023-12
+      - company: International Collegiate Programming Contest (\textbf{ICPC}) World Final
+        position: Asia West Champion
+        date: 2018-04
+      - company: ACM International Collegiate Programming Contest (\textbf{ACM-ICPC}) World Final
+        position: 14th Place
+        date: 2016-05
+      - company: International Olympiad in Informatics (\textbf{IOI})
+        position: '[Bronze Medal](https://stats.ioinformatics.org/people/5616)'
+        date: 2015-07
+      - company: Asia-Pacific Informatics Olympiad (\textbf{APIO})
+        position: Gold Medal
+        date: 2015-05
+      - company: Iranian National Olympiad in Informatics
+        position: Gold Medal
+        date: 2014-09
+    experience:
+      - company: Balad (Map and Navigation App)
+        position: Software Engineer
+        location: Tehran, Iran
+        start_date: 2018-09
+        end_date: 2021-11
+        highlights:
+          - Enhanced service stability and scalability and optimized inter-service communication as part of the infrastructure team.
+          - Developed and took ownership of Balad’s core service for managing and providing location-specific data.
+          - Led a diverse team of 10 technical members to collect and clean location-specific data and refine service design with microservices.
+          - Primarily wrote code in Python, with additional experience in C++, Java, Go, and various other tools.
+      - company: Max Planck Institute for Informatics
+        position: Research Intern
+        location: Saarbrücken, Germany
+        start_date: 2019-07
+        end_date: 2019-08
+        highlights:
+          - Designed and benchmarked an energy-preserving online scheduling algorithm.
+      - company: Balad (Map and Navigation App)
+        position: Software Engineer Intern
+        location: Tehran, Iran
+        start_date: 2018-06
+        end_date: 2018-08
+        highlights:
+          - Designed and implemented a novel algorithm for optimal routing of camera-equipped cars, ensuring comprehensive street coverage in Tehran within the minimum time.
+    publications:
+      - title: '[A Dynamic Algorithm for Weighted Submodular Cover Problem](https://proceedings.mlr.press/v235/banihashem24a.html)'
+#        authors:
+#          - joint work with Kiarash Banihashem
+#          - Samira Goudarzi
+#          - MohammadTaghi Hajiaghayi
+#          - Morteza Monemizadeh
+        date: 2024-07
+        authors:
+          - '41th International Conference on Machine Learning (**ICML 2024**). **\textcolor{red}{Accepted for oral presentation}**'
+      - title: '[Prize-Collecting Steiner Tree: A 1.79 Approximation](https://dl.acm.org/doi/abs/10.1145/3618260.3649789)'
+#        authors:
+#          - joint work with Ali Ahmadi
+#          - Iman Gholami
+#          - MohammadTaghi Hajiaghayi
+#          - Mohammad Mahdavi
+        date: 2024-06
+        authors:
+          - '56th ACM Symposium on Theory of Computing (**STOC 2024**).'
+      - title: '[2-Approximation for Prize-Collecting Steiner Forest](https://epubs.siam.org/doi/abs/10.1137/1.9781611977912.25)'
+#        authors:
+#          - joint work with Ali Ahmadi
+#          - Iman Gholami
+#          - MohammadTaghi Hajiaghayi
+#          - Mohammad Mahdavi
+        date: 2024-01
+        authors:
+          - 'ACM-SIAM Symposium on Discrete Algorithms (**SODA 2024**). **\textcolor{red}{Invited for a special issue of ACM TALG}**'
+      - title: '[Dynamic Algorithms for Matroid Submodular Maximization](https://epubs.siam.org/doi/abs/10.1137/1.9781611977912.125)'
+#        authors:
+#          - joint work with Kiarash Banihashem
+#          - Leyla Biabani
+#          - Samira Goudarzi
+#          - MohammadTaghi Hajiaghayi
+#          - Morteza Monemizadeh
+        date: 2024-01
+        authors:
+          - 'ACM-SIAM Symposium on Discrete Algorithms (**SODA 2024**).'
+      - title: '[Dynamic Non-monotone Submodular Maximization](https://proceedings.neurips.cc/paper_files/paper/2023/hash/387982dbf23d9975c7fc45813dd3dabc-Abstract-Conference.html)'
+#        authors:
+#          - joint work with Kiarash Banihashem
+#          - Leyla Biabani
+#          - Samira Goudarzi
+#          - MohammadTaghi Hajiaghayi
+#          - Morteza Monemizadeh
+        date: 2023-12
+        authors:
+          - '37th Conference on Neural Information Processing Systems (**NeurIPS 2023**).'
+      - title: '[Dynamic Constrained Submodular Optimization with Polylogarithmic Update Time](https://proceedings.mlr.press/v202/banihashem23a.html)'
+#        authors:
+#          - joint work with Kiarash Banihashem
+#          - Leyla Biabani
+#          - Samira Goudarzi
+#          - MohammadTaghi Hajiaghayi
+#          - Morteza Monemizadeh
+        date: 2023-07
+        authors:
+          - '40th International Conference on Machine Learning (**ICML 2023**)'
+      - title: '[A Novel Prediction Setup for Online Speed-Scaling](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SWAT.2022.9)'
+#        authors:
+#          - joint work with Antonios Antoniadis
+#          - Golnoosh Shahkarami
+        date: 2022-06
+        authors:
+          - '18th Scandinavian Symposium and Workshops on Algorithm Theory (**SWAT 2022**)'
+    volunteer experience:
+      - name: Coaching
+        start_date: 2020
+        end_date: 2023
+        highlights:
+          - Coached the University of Maryland's team for ICPC 2023, leading them to a silver medal at the North America Championship and advancing to the world final. [[1](https://today.umd.edu/briefs/umd-students-advance-to-global-finals-in-programming-competition), [2](https://www.cs.umd.edu/article/2023/06/umd-computer-science-students-earn-silver-medal-international-collegiate-programming)]
+          - Led [Iran's national team for IOI 2020](https://stats.ioinformatics.org/delegations/IRN/2020), achieving 3 gold and 1 silver medal—the best result for Iran in IOI.
+          - Coached Sharif University of Technology's team in the ICPC 2020 World Finals.
+      - name: Scientific Committee
+        start_date: 2017
+        end_date: present
+        highlights:
+          - Member of the Host Scientific Committee (HSC) for IOI 2017.
+          - Judge for the ICPC North America Championship 2024.
+          - Member of the Iranian National Olympiads in Informatics Scientific Committee for 6 years.
+          - Contributed to the preparation of the ICPC Tehran Regional Contest for 6 years.
+      - name: Task Author
+        start_date: 2015
+        end_date: present
+        highlights:
+          - Authored the problem "[Rectangles](https://ioi.te.lv/locations/ioi19/contest/day1/Rect/rect.pdf)" for [IOI 2019](https://ioi.te.lv/locations/ioi19/contest/index.shtml).
+          - Managed numerous programming competitions and authored problems for selecting Iran’s national team for IOI.
+    technical skills:
+      - label: Programming Languages
+        details: Python, C/C++, SQL
+      - label: Technologies
+        details: Docker, Kubernetes, Kafka, gRPC, REST, Sentry, Redis, Prometheus, Grafana, ElasticSearch, Logstash, Kibana
+design:
+  theme: peymantheme
+  font: Source Sans 3
+  font_size: 10pt
+  page_size: letterpaper
+  color: '#004f90'
+  disable_external_link_icons: false
+  disable_page_numbering: false
+  page_numbering_style: Page PAGE_NUMBER of TOTAL_PAGES
+  disable_last_updated_date: false
+  last_updated_date_style: Last updated in TODAY
+  header_font_size: 30 pt
+  text_alignment: justified
+  seperator_between_connections: '|'
+  use_icons_for_connections: true
+  margins:
+    page:
+      top: 0.9 cm
+      bottom: 0.9 cm
+      left: 0.6 cm
+      right: 0.6 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.1 cm
+    entry_area:
+      left_and_right: 0.2 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 4.5 cm
+#      education_degree_width: 1 cm
+    highlights_area:
+      top: 0.1 cm
+      left: 0.4 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 0.1 cm
+      bottom: 0.3 cm
+      horizontal_between_connections: 0.3 cm
+#  show_timespan_in: []
