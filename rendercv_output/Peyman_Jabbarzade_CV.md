@@ -28,6 +28,48 @@
 - Sept 2015 – Aug 2019
 - Tehran, Iran
 
+# Publications
+
+## Prize-Collecting Forest with Submodular Penalties: Improved Approximation 
+- June 2025
+- Ali Ahmadi, Iman Gholami, MohammadTaghi Hajiaghayi, Peyman Jabbarzade, Mohammad Mahdavi
+- 26th Conference on Integer Programming and Combinatorial Optimization (**IPCO 2025**).
+
+## [A Dynamic Algorithm for Weighted Submodular Cover Problem](https://proceedings.mlr.press/v235/banihashem24a.html) 
+- July 2024
+- Kiarash Banihashem, Samira Goudarzi, MohammadTaghi Hajiaghayi, Peyman Jabbarzade, Morteza Monemizadeh
+- 41th International Conference on Machine Learning (**ICML 2024**). **\textcolor{red}{Accepted for oral presentation}**
+
+## [Prize-Collecting Steiner Tree: A 1.79 Approximation](https://dl.acm.org/doi/abs/10.1145/3618260.3649789) 
+- June 2024
+- Ali Ahmadi, Iman Gholami, MohammadTaghi Hajiaghayi, Peyman Jabbarzade, Mohammad Mahdavi
+- 56th ACM Symposium on Theory of Computing (**STOC 2024**).
+
+## [2-Approximation for Prize-Collecting Steiner Forest](https://epubs.siam.org/doi/abs/10.1137/1.9781611977912.25) 
+- Jan 2024
+- Ali Ahmadi, Iman Gholami, MohammadTaghi Hajiaghayi, Peyman Jabbarzade, Mohammad Mahdavi
+- ACM-SIAM Symposium on Discrete Algorithms (**SODA 2024**). **\textcolor{red}{Invited for a special issue of ACM TALG}**
+
+## [Dynamic Algorithms for Matroid Submodular Maximization](https://epubs.siam.org/doi/abs/10.1137/1.9781611977912.125) 
+- Jan 2024
+- Kiarash Banihashem, Leyla Biabani, Samira Goudarzi, MohammadTaghi Hajiaghayi, Peyman Jabbarzade, Morteza Monemizadeh
+- ACM-SIAM Symposium on Discrete Algorithms (**SODA 2024**).
+
+## [Dynamic Non-monotone Submodular Maximization](https://proceedings.neurips.cc/paper_files/paper/2023/hash/387982dbf23d9975c7fc45813dd3dabc-Abstract-Conference.html) 
+- Dec 2023
+- Kiarash Banihashem, Leyla Biabani, Samira Goudarzi, MohammadTaghi Hajiaghayi, Peyman Jabbarzade, Morteza Monemizadeh
+- 37th Conference on Neural Information Processing Systems (**NeurIPS 2023**).
+
+## [Dynamic Constrained Submodular Optimization with Polylogarithmic Update Time](https://proceedings.mlr.press/v202/banihashem23a.html) 
+- July 2023
+- Kiarash Banihashem, Leyla Biabani, Samira Goudarzi, MohammadTaghi Hajiaghayi, Peyman Jabbarzade, Morteza Monemizadeh
+- 40th International Conference on Machine Learning (**ICML 2023**)
+
+## [A Novel Prediction Setup for Online Speed-Scaling](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SWAT.2022.9) 
+- June 2022
+- Antonios Antoniadis, Peyman Jabbarzade, Golnoosh Shahkarami
+- 18th Scandinavian Symposium and Workshops on Algorithm Theory (**SWAT 2022**)
+
 # Awards
 
 ## University of Maryland, Dean's Fellowship
@@ -76,36 +118,6 @@
 - June 2018 – Aug 2018
 - Tehran, Iran
 - Designed and implemented a novel algorithm for optimal routing of camera-equipped cars, ensuring comprehensive street coverage in Tehran within the minimum time.
-
-# Publications
-
-## [A Dynamic Algorithm for Weighted Submodular Cover Problem](https://proceedings.mlr.press/v235/banihashem24a.html) 
-- July 2024
-- 41th International Conference on Machine Learning (**ICML 2024**). **\textcolor{red}{Accepted for oral presentation}**
-
-## [Prize-Collecting Steiner Tree: A 1.79 Approximation](https://dl.acm.org/doi/abs/10.1145/3618260.3649789) 
-- June 2024
-- 56th ACM Symposium on Theory of Computing (**STOC 2024**).
-
-## [2-Approximation for Prize-Collecting Steiner Forest](https://epubs.siam.org/doi/abs/10.1137/1.9781611977912.25) 
-- Jan 2024
-- ACM-SIAM Symposium on Discrete Algorithms (**SODA 2024**). **\textcolor{red}{Invited for a special issue of ACM TALG}**
-
-## [Dynamic Algorithms for Matroid Submodular Maximization](https://epubs.siam.org/doi/abs/10.1137/1.9781611977912.125) 
-- Jan 2024
-- ACM-SIAM Symposium on Discrete Algorithms (**SODA 2024**).
-
-## [Dynamic Non-monotone Submodular Maximization](https://proceedings.neurips.cc/paper_files/paper/2023/hash/387982dbf23d9975c7fc45813dd3dabc-Abstract-Conference.html) 
-- Dec 2023
-- 37th Conference on Neural Information Processing Systems (**NeurIPS 2023**).
-
-## [Dynamic Constrained Submodular Optimization with Polylogarithmic Update Time](https://proceedings.mlr.press/v202/banihashem23a.html) 
-- July 2023
-- 40th International Conference on Machine Learning (**ICML 2023**)
-
-## [A Novel Prediction Setup for Online Speed-Scaling](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SWAT.2022.9) 
-- June 2022
-- 18th Scandinavian Symposium and Workshops on Algorithm Theory (**SWAT 2022**)
 
 # Volunteer Experience
 
