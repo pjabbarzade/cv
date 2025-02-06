@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  5 FEB 2025 17:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  5 FEB 2025 23:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -873,17 +873,17 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 221.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 290.
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 289.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 8.0pt on input line 290.
+(Font)              scaled to size 8.0pt on input line 289.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 496.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 477.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 496.
+(Font)              scaled to size 10.0pt on input line 477.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 496.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 477.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 9.0pt on input line 496.
+(Font)              scaled to size 9.0pt on input line 477.
  [1
 
 {/Users/peyman/Documents/CV/venv/lib/python3.12/site-packages/rendercv/renderer
@@ -909,11 +909,11 @@ L3 programming layer <2024-03-14>
 Here is how much of TeX's memory you used:
  15774 strings out of 476002
  289122 string characters out of 5788363
- 1967496 words of memory out of 5000000
+ 1970496 words of memory out of 5000000
  37658 multiletter control sequences out of 15000+600000
  673983 words of font info for 73 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 75i,10n,79p,529b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,529b,708s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/peyman/Documents/CV/venv/lib/python3.12/site-packages/rendercv/render
 er/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAweso
 me5Brands-Regular.pfb></Users/peyman/Documents/CV/venv/lib/python3.12/site-pack
@@ -930,7 +930,7 @@ tinytex-release/TinyTeX/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPr
 o-Regular.pfb></Users/peyman/Documents/CV/venv/lib/python3.12/site-packages/ren
 dercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy9.p
 fb>
-Output written on Peyman_Jabbarzade_CV.pdf (2 pages, 233887 bytes).
+Output written on Peyman_Jabbarzade_CV.pdf (2 pages, 234156 bytes).
 PDF statistics:
  104 PDF objects out of 1000 (max. 8388607)
  84 compressed objects within 1 object stream
