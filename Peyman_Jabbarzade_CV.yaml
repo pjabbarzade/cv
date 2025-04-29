@@ -37,7 +37,7 @@ cv:
         end_date: present
         highlights:
           - '**Field:** Theoretical Computer Science'
-          - 'Designing algorithms for fundamental graph theory problems and optimizing submodular functions in the dynamic model.'
+          - 'Designing algorithms for fundamental graph problems and optimizing submodular functions in dynamic settings.'
       - institution: Sharif University of Technology
         area: Computer Engineering
         degree: M.Sc.
@@ -82,8 +82,8 @@ cv:
         highlights:
           - Enhanced service stability and scalability and optimized inter-service communication as part of the infrastructure team.
           - Developed and took ownership of Balad’s core service for managing and providing location-specific data.
-          - Led a diverse team of 10 technical members to collect and clean location-specific data and refine service design with microservices.
-          - Primarily wrote code in Python, with additional experience in C++, Java, Go, and various other tools.
+          - Led a diverse team of 10 engineers to collect and clean location-specific data, and to refine the service design using microservices.
+          - Primarily coded in Python, with additional experience in C++, Java, Go, and various other tools.
       - company: Max Planck Institute for Informatics
         position: Research Intern
         location: Saarbrücken, Germany
@@ -99,14 +99,33 @@ cv:
         highlights:
           - Designed and implemented a novel algorithm for optimal routing of camera-equipped cars, ensuring comprehensive street coverage in Tehran within the minimum time.
     publications:
-      - title: 'Prize-Collecting Forest with Submodular Penalties: Improved Approximation'
+      - title: '\href{https://arxiv.org/abs/2504.11398}{Breaking a Long-Standing Barrier: 2-$\varepsilon$ Approximation for Steiner Forest}'
         authors:
           - Ali Ahmadi
           - Iman Gholami
           - MohammadTaghi Hajiaghayi
           - Peyman Jabbarzade
           - Mohammad Mahdavi
-        date: 2025-06
+        date: 2025-04
+#        journal: '26th Conference on Integer Programming and Combinatorial Optimization (**IPCO 2025**).'
+      - title: 'Dynamic Algorithms for Submodular Matching'
+        authors:
+          - Kiarash Banihashem
+          - Leyla Biabani
+          - Samira Goudarzi
+          - MohammadTaghi Hajiaghayi
+          - Peyman Jabbarzade
+          - Morteza Monemizadeh
+        date: 2025-04 #06
+        journal: '52nd EATCS International Colloquium on Automata, Languages, and Programming (**ICALP 2025**).'
+      - title: '[Prize-Collecting Forest with Submodular Penalties: Improved Approximation](https://arxiv.org/abs/2504.15445)'
+        authors:
+          - Ali Ahmadi
+          - Iman Gholami
+          - MohammadTaghi Hajiaghayi
+          - Peyman Jabbarzade
+          - Mohammad Mahdavi
+        date: 2025-01 #06
         journal: '26th Conference on Integer Programming and Combinatorial Optimization (**IPCO 2025**).'
       - title: '[A Dynamic Algorithm for Weighted Submodular Cover Problem](https://proceedings.mlr.press/v235/banihashem24a.html)'
         authors:
@@ -116,7 +135,7 @@ cv:
           - Peyman Jabbarzade
           - Morteza Monemizadeh
         date: 2024-07
-        journal: '41th International Conference on Machine Learning (**ICML 2024**). **\textcolor{red}{Accepted for oral presentation}**'
+        journal: '41st International Conference on Machine Learning (**ICML 2024, accepted for oral presentation)**'
       - title: '[Prize-Collecting Steiner Tree: A 1.79 Approximation](https://dl.acm.org/doi/abs/10.1145/3618260.3649789)'
         authors:
           - Ali Ahmadi
@@ -126,7 +145,7 @@ cv:
           - Mohammad Mahdavi
         date: 2024-06
         journal: '56th ACM Symposium on Theory of Computing (**STOC 2024**).'
-      - title: '[2-Approximation for Prize-Collecting Steiner Forest](https://epubs.siam.org/doi/abs/10.1137/1.9781611977912.25)'
+      - title: '[2-Approximation for Prize-Collecting Steiner Forest](https://dl.acm.org/doi/10.1145/3722551)'
         authors:
           - Ali Ahmadi
           - Iman Gholami
@@ -134,7 +153,7 @@ cv:
           - Peyman Jabbarzade
           - Mohammad Mahdavi
         date: 2024-01
-        journal: 'ACM-SIAM Symposium on Discrete Algorithms (**SODA 2024**). **\textcolor{red}{Invited for a special issue of ACM TALG}**'
+        journal: 'Journal of the ACM (**JACM 2025, selected paper from SODA 2024**).'
       - title: '[Dynamic Algorithms for Matroid Submodular Maximization](https://epubs.siam.org/doi/abs/10.1137/1.9781611977912.125)'
         authors:
           - Kiarash Banihashem
@@ -173,24 +192,37 @@ cv:
         date: 2022-06
         journal: '18th Scandinavian Symposium and Workshops on Algorithm Theory (**SWAT 2022**)'
     volunteer experience:
+      - name: Paper Reviewing
+        start_date: 2020
+        end_date: present
+        highlights:
+          - Served on the Junior Program Committee for SPAA 2025.
+          - Reviewed papers for Algorithmica journal and conferences such as DISC 2022, ALGOSENSORS 2022, NeurIPS 2024,\\IPCO 2024, APPROX 2024, ESA 2024, ICML 2025, ICLR 2025, AISTATS 2025, ICALP 2025, and SPAA 2025.
       - name: Coaching
         start_date: 2020
         end_date: 2023
         highlights:
-          - Coached the University of Maryland's team for ICPC 2023, leading them to a silver medal at the North America Championship and advancing to the world final. [[1](https://today.umd.edu/briefs/umd-students-advance-to-global-finals-in-programming-competition), [2](https://www.cs.umd.edu/article/2023/06/umd-computer-science-students-earn-silver-medal-international-collegiate-programming)]
+          - Coached the University of Maryland's team for ICPC 2023, leading them to a silver medal at\\the North America Championship and advancing to the world final. [[1](https://today.umd.edu/briefs/umd-students-advance-to-global-finals-in-programming-competition), [2](https://www.cs.umd.edu/article/2023/06/umd-computer-science-students-earn-silver-medal-international-collegiate-programming)]
           - Led [Iran's national team for IOI 2020](https://stats.ioinformatics.org/delegations/IRN/2020), achieving 3 gold and 1 silver medal—the best result for Iran in IOI.
           - Coached Sharif University of Technology's team in the ICPC 2020 World Finals.
       - name: Scientific Committee
         start_date: 2017
-        end_date: present
+        end_date: 2024
         highlights:
           - Member of the Host Scientific Committee (HSC) for IOI 2017.
           - Judge for the ICPC North America Championship 2024.
-          - Member of the Iranian National Olympiads in Informatics Scientific Committee for 6 years.
-          - Contributed to the preparation of the ICPC Tehran Regional Contest for 6 years.
+          - Member of the Iranian National Olympiads in Informatics Scientific Committee over six years.
+          - Contributed to the preparation of the ICPC Tehran Regional Contest over six years.
+      - name: Teaching
+        start_date: 2015
+        end_date: 2024
+        highlights:
+          - Teaching Assistant at the University of Maryland for courses in Algorithms, Advanced Data Structures, and Computational Genomics.
+          - Teaching Assistant at Sharif University of Technology for courses in Algorithms and Data Structures.
+          - Prepared high school students for the Iranian National Olympiad in Informatics.
       - name: Task Author
         start_date: 2015
-        end_date: present
+        end_date: 2024
         highlights:
           - Authored the problem "[Rectangles](https://ioi.te.lv/locations/ioi19/contest/day1/Rect/rect.pdf)" for [IOI 2019](https://ioi.te.lv/locations/ioi19/contest/index.shtml).
           - Managed numerous programming competitions and authored problems for selecting Iran’s national team for IOI.
@@ -216,8 +248,8 @@ design:
   use_icons_for_connections: true
   margins:
     page:
-      top: 0.6 cm
-      bottom: 0.6 cm
+      top: 0.9 cm # 0.6 cm
+      bottom: 0.9 cm # 0.6 cm
       left: 0.6 cm
       right: 0.6 cm
     section_title:
