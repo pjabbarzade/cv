@@ -37,6 +37,9 @@
         ((*- if entry.journal -*))
         <<entry.journal>>
         ((*- endif -*))
+        ((*- if entry.conference -*))
+        <<entry.conference>>
+        ((*- endif -*))
         ((*- if (entry.doi or entry.url) and entry.journal *)))((* endif -*))
     \end{onecolentry}
 \end{samepage}
